@@ -252,3 +252,5 @@
 /Users/khoerulumam/Documents/Github/latihandotnet/TodoAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/khoerulumam/Documents/Github/latihandotnet/TodoAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/khoerulumam/Documents/Github/latihandotnet/TodoAPI/obj/Debug/net7.0/TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/khoerulumam/Documents/Github/latihandotnet/TodoAPI/bin/Debug/net7.0/Npgsql.dll
+/Users/khoerulumam/Documents/Github/latihandotnet/TodoAPI/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
